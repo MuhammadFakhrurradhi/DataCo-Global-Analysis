@@ -1,5 +1,7 @@
 # DataCo-Global-Analysis
 
+Project Documentation [notion](https://muhammadfakhrurradhi.notion.site/DataCo-Global-Analysis-879d215f7a3e479bb9995a5507d6b90a?pvs=4)
+
 ## Introduction
 
 Data is increasingly important in business today. In business generally  data has become vital for a company’s performance to enable data driven decisions.
